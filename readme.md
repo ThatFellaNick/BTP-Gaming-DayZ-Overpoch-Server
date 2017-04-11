@@ -1,23 +1,23 @@
 This is a rebuild of the popular BTP Gaming Overpoch DayZ server.
 It was rebuilt by me with addons from the Epoch community and maybe some custom addons for BTP
 
-Features (not all of them)
-Coin currency
-WAI Missions
-Deploy Bike
-ESSV3 - Enhanced Spawn Selection
-Trader City Bor
-Safezone god-mode
-Serive Stations
-Slow Zs
-Working Group management
-1 stage building
-50M Building height and restrictions
-Custom GUI / Menu
-Vehicles left in safezone will be moved to Junk Yard
-Weed Harvesting
-Player map icons
-Hotwire Safe
+Features (not all of them)<br />
+Coin currency<br />
+WAI Missions<br />
+Deploy Bike<br />
+ESSV3 - Enhanced Spawn Selection<br />
+Trader City Bor<br />
+Safezone god-mode<br />
+Serive Stations<br />
+Slow Zs<br />
+Working Group management<br />
+1 stage building<br />
+50M Building height and restrictions<br />
+Custom GUI / Menu<br />
+Vehicles left in safezone will be moved to Junk Yard<br />
+Weed Harvesting<br />
+Player map icons<br />
+Hotwire Safe<br />
 
 www.btpgaming.com
 
